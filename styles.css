@@ -45,3 +45,8 @@ img {
     width: 320px;
   }
 }
+
+@media print {
+  #left-column , #right-column {
+    background: none;
+  }
