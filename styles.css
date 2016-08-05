@@ -1,0 +1,20 @@
+#container {
+  width: 960px;
+  margin: 0px auto;
+}
+
+#left-column {
+  width: 700px;
+  float: left;
+  background: blue;
+}
+
+#right-column {
+  width: 260px;
+  float: left;
+  background: orange;
+}
+
+img {
+  width: 100%;
+}
