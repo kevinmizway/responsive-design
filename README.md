@@ -16,6 +16,6 @@ _This is a simple website featuring a banner, left column and right column._
 
 ## Technologies Used
 
-_HTML and CSS with responsive-design. Media queries have been created for 960 px, 640px and 320px._
+_HTML and CSS with responsive-design. Media queries have been created for 960px, 640px and 320px._
 
 Copyright (c) 2016 **_Kevin Mizway_**
